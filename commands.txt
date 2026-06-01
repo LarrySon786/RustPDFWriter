@@ -1,3 +1,24 @@
+Walkthrough Items to Cover
+
+1. Functionality - demonstrate the application in use
+2. PDF reports saved (and openable)
+3. Functions to build application
+4. Code Walkthrough
+    - Rust Syntax
+        - Variable Declaration
+        - Type of bytes and conversion
+        - Mutable and Immutable
+        - Ownership and Borrowing
+        - Arrays and Vectors
+        - Stacks and Heaps (heaps used for dynamic values, stacks for static)
+
+
+
+
+
+
+
+
 
 
 SAMPLE LETTER BODY
